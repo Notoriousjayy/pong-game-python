@@ -1,0 +1,4 @@
+name: Notoriousjayy/pong-game-python-codeql-pack
+version: 0.0.1
+library: true
+dependencies: {}
